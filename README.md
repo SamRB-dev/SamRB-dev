@@ -1,6 +1,7 @@
-<div align="center"><img src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif"></div>
-Hi there 👋
-
+<div align="center"><img src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="150"></div>
+<div id="socials" align="center">
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"></a>
+</div>
 <!--
 **SamRB-dev/SamRB-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
