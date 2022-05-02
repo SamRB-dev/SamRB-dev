@@ -4,9 +4,9 @@
 </div>
 <div id="counter" align="center">
      <img src="https://komarev.com/ghpvc/?username=SamRB-dev&style=flat-square&color=brightgreen">
-</div>
+</div><br>
 <div id="Languages" align="center">
-:hammer_and_wrench: Languages and Tools :<br>
+:hammer_and_wrench: Languages and Tools:<br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" width="50">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="50">
   <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" width="50"> <!--Arduino-->
