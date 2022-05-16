@@ -14,6 +14,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="50"> <!--Java-->
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" width="50"> <!--Html-->
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" width="50"> <!--CSS-->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="50"> <!--SCSS-->
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="50"> <!--Linux-->
 </div>
 
