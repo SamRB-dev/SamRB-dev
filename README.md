@@ -16,6 +16,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" width="50"> <!--CSS-->
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="50"> <!--SCSS-->
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="50"> <!--Linux-->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" width="50"> <!--Django-->
 </div>
 
 
