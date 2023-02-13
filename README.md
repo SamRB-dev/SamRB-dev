@@ -1,15 +1,29 @@
+<!-- Resource: https://github.com/rzashakeri/beautify-github-profile -->
 <div align="center">
      <img src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="250">
      <img src="https://media.giphy.com/media/20JY76TfKAhR20SfJu/giphy.gif" width="200">
 </div>
 
+<!-- Typing Widget -->
 <div align="center">
-     <img src="https://media.giphy.com/media/A1kfWSbt6HeEiPRkH1/giphy.gif" width="250">
+     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Concended&weight=700&size=25&pause=1000&color=9136F7&background=968EFF00&center=true&width=480&lines=Hi!+Welcome+to+my+Github+repo+%3A)" alt="Typing SVG" /></a>
 </div>
 
+<!--Stats , Top-Language, Streak -->
+<div align="center">
+     <img src="https://github-readme-stats.vercel.app/api?username=SamRB-dev&show_icons=true&theme=radical" />
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamRB-dev&show_icons=true&theme=radical&layout=compact"/>
+</div>
+<div align="center">
+     <img src="https://streak-stats.demolab.com/?user=SamRB-dev&theme=radical"/>
+</div>
+
+<!-- Socials -->
 <div id="socials" align="center">
      <a href="https://www.linkedin.com/in/srb008" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"></a>
 </div>
+
+<!-- View Counter -->
 <div id="counter" align="center">
      <img src="https://komarev.com/ghpvc/?username=SamRB-dev&style=flat-square&color=brightgreen">
 </div><br>
