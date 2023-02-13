@@ -1,10 +1,19 @@
-<div align="center"><img src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="250"></div>
+<div align="center">
+     <img src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="250">
+     <img src="https://media.giphy.com/media/20JY76TfKAhR20SfJu/giphy.gif" width="200">
+</div>
+
+<div align="center">
+     <img src="https://media.giphy.com/media/A1kfWSbt6HeEiPRkH1/giphy.gif" width="250">
+</div>
+
 <div id="socials" align="center">
-<a href="https://www.linkedin.com/in/srb008" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"></a>
+     <a href="https://www.linkedin.com/in/srb008" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"></a>
 </div>
 <div id="counter" align="center">
      <img src="https://komarev.com/ghpvc/?username=SamRB-dev&style=flat-square&color=brightgreen">
 </div><br>
+
 <div id="Languages" align="center">
 :hammer_and_wrench: Languages and Tools:<br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" width="50"> <!--Anaconda-->
@@ -17,9 +26,20 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" width="50"> <!--CSS-->
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="50"> <!--SCSS-->
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="50"> <!--Linux-->
-</div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" width="50"> <!--ExpressJs-->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="50"> <!--Figma-->   
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="50"/> <!--Git-->
+  <!-- <img src="" width="50"> -->
+</div><br>
 
 
+#
+- 🌱 I’m currently learning 
+  * Some `UI/UX`
+  * `Expressjs`
+  * `SQL`
+  * `RESTful API`
+  * Trying to decide which frontend `framework/library` to learn
 
 <!--
 **SamRB-dev/SamRB-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
