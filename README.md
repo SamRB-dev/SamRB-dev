@@ -1,6 +1,8 @@
 <!-- Resource: https://github.com/rzashakeri/beautify-github-profile -->
-<!--Header-->
-<img src="https://user-images.githubusercontent.com/70096616/220016510-27dcf125-1136-4c3e-b318-3f19d2020a6b.png" width="120%">
+<div align="center">
+     <!--Header-->
+     <img src="https://user-images.githubusercontent.com/70096616/220016510-27dcf125-1136-4c3e-b318-3f19d2020a6b.png" width="90%">
+</div>
 
 <div align="center">
      <img src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="250">
