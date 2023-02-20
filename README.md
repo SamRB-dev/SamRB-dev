@@ -1,4 +1,7 @@
 <!-- Resource: https://github.com/rzashakeri/beautify-github-profile -->
+<!--Header-->
+<img src="https://user-images.githubusercontent.com/70096616/220016510-27dcf125-1136-4c3e-b318-3f19d2020a6b.png" width="100%">
+
 <div align="center">
      <img src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="250">
      <img src="https://media.giphy.com/media/20JY76TfKAhR20SfJu/giphy.gif" width="200">
@@ -69,3 +72,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
