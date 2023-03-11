@@ -18,7 +18,6 @@
 <!--Stats , Top-Language, Streak -->
 <div align="center">
      <img src="https://github-readme-stats.vercel.app/api?username=SamRB-dev&show_icons=true&theme=radical" />
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamRB-dev&show_icons=true&theme=radical&layout=compact"/>
 </div>
 <div align="center">
      <img src="https://streak-stats.demolab.com/?user=SamRB-dev&theme=radical"/>
@@ -28,11 +27,6 @@
 <div id="socials" align="center">
      <a href="https://www.linkedin.com/in/srb008" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"></a>
 </div>
-
-<!-- View Counter -->
-<div id="counter" align="center">
-     <img src="https://komarev.com/ghpvc/?username=SamRB-dev&style=flat-square&color=brightgreen">
-</div><br>
 
 <div id="Languages" align="center">
 :hammer_and_wrench: Languages and Tools:<br>
