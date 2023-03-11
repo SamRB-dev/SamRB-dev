@@ -4,6 +4,7 @@
      <img src="https://user-images.githubusercontent.com/70096616/220016510-27dcf125-1136-4c3e-b318-3f19d2020a6b.png" width="90%">
 </div>
 
+
 <div align="center">
      <img src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="250">
      <img src="https://media.giphy.com/media/20JY76TfKAhR20SfJu/giphy.gif" width="200">
@@ -35,19 +36,33 @@
 
 <div id="Languages" align="center">
 :hammer_and_wrench: Languages and Tools:<br>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" width="50"> <!--Anaconda-->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="50"> <!--python-->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" width="50"> <!--Django-->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" width="50"> <!--Arduino-->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="50"> <!--C-->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="50"> <!--Java-->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" width="50"> <!--Html-->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" width="50"> <!--CSS-->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="50"> <!--SCSS-->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="50"> <!--Linux-->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" width="50"> <!--ExpressJs-->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="50"> <!--Figma-->   
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="50"/> <!--Git-->
+  <div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="51" width="61" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="51" width="61" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" height="51" width="61" alt="bootstrap logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="51" width="61" alt="sass logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="51" width="61" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="51" width="61" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="51" width="61" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="51" width="61" alt="express logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="51" width="61" alt="figma logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="51" width="61" alt="canva logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" height="51" width="61" alt="c logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" height="51" width="61" alt="arduino logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="51" width="61" alt="github logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" height="51" width="61" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="51" width="61" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="51" width="61" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="51" width="61" alt="jupyter logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="51" width="61" alt="linux logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" height="51" width="61" alt="ubuntu logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="51" width="61" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="51" width="61" alt="postgresql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="51" width="61" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" height="51" width="61" alt="firefox logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="51" width="61" alt="markdown logo"  />
+</div>
+
   <!-- <img src="" width="50"> -->
 </div><br>
 
