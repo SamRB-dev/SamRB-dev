@@ -17,15 +17,18 @@
 
 <!--Stats , Top-Language, Streak -->
 <div align="center">
-     <img src="https://github-readme-stats.vercel.app/api?username=SamRB-dev&show_icons=true&theme=radical" />
+    <!-- Summary -->
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SamRB-dev&theme=2077">
+    <!-- Stats -->
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SamRB-dev&theme=2077">
+    <!-- Top Language -->
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SamRB-dev&theme=2077">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SamRB-dev&theme=2077">
+    <!-- Commits -->
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SamRB-dev&theme=2077&utcOffset=8">
 </div>
 <div align="center">
      <img src="https://streak-stats.demolab.com/?user=SamRB-dev&theme=radical"/>
-</div>
-
-<!-- Socials -->
-<div id="socials" align="center">
-     <a href="https://www.linkedin.com/in/srb008" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"></a>
 </div>
 
 <div id="Languages" align="center">
@@ -64,10 +67,17 @@
 #
 - 🌱 I’m currently learning 
   * Some `UI/UX`
-  * `Expressjs`
-  * `SQL`
-  * `RESTful API`
-  * Trying to decide which frontend `framework/library` to learn
+  * `Expressjs/NodeJs`
+  * `SQL [Postgres, MySQL]`
+  * `RESTful API` & `Third Party APIs`
+  * `React`
+
+#
+- 📫 How to reach me: 
+<!-- Socials -->
+<div id="socials" align="left">
+    <a href="https://www.linkedin.com/in/srb008" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"></a>
+</div>
 
 <!--
 **SamRB-dev/SamRB-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -79,7 +89,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
