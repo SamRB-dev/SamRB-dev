@@ -63,15 +63,8 @@
   <!-- <img src="" width="50"> -->
 </div><br>
 
-
-#
-- 🌱 I’m currently learning 
-  * Some `UI/UX`
-  * `Expressjs/NodeJs`
-  * `SQL [Postgres, MySQL]`
-  * `RESTful API` & `Third Party APIs`
-  * `React`
-
+<!--- 🌱 I’m currently learning 
+-->
 #
 - 📫 How to reach me: 
 <!-- Socials -->
