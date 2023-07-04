@@ -10,10 +10,16 @@
      <img src="https://media.giphy.com/media/20JY76TfKAhR20SfJu/giphy.gif" width="200">
 </div>
 
-<!-- Typing Widget 
+<!-- Typing Widget -->
 <div align="center">
      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Concended&weight=700&size=25&pause=1000&color=9136F7&background=968EFF00&center=true&width=480&lines=Hi!+Welcome+to+my+Github+repo+%3A)" alt="Typing SVG" /></a>
-</div> -->
+</div>
+
+<!-- Socials -->
+<div id="socials" align="center">
+    <a href="https://www.linkedin.com/in/srb008" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"></a>
+     <a href="https://youtube.com/@samisnoviceinprogramming" target="_blank"><img src="https://img.shields.io/badge/Youtube-FF3A20?style=for-the-badge&logo=youtube"></a>
+</div><br>
 
 <!--Stats , Top-Language, Streak -->
 <div align="center">
@@ -32,7 +38,7 @@
 </div>
 
 <div id="Languages" align="center">
-:hammer_and_wrench: Languages and Tools:<br>
+  <h2>:hammer_and_wrench: Languages and Tools </h2><br>
   <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="51" width="61" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="51" width="61" alt="css3 logo"  />
@@ -65,12 +71,6 @@
 
 <!--- 🌱 I’m currently learning 
 -->
-#
-- 📫 How to reach me: 
-<!-- Socials -->
-<div id="socials" align="left">
-    <a href="https://www.linkedin.com/in/srb008" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"></a>
-</div>
 
 <!--
 **SamRB-dev/SamRB-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
