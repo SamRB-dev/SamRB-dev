@@ -22,7 +22,7 @@
      <a href="https://www.kaggle.com/sadimrahmanbadhan" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=fff&style=for-the-badge"></a>
 </div><br>
 
-<!--Stats , Top-Language, Streak -->
+<!--Stats, Top-Language, Streak -->
 <div align="center">
     <!-- Summary -->
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SamRB-dev&theme=2077">
@@ -39,7 +39,7 @@
 </div>
 
 <div id="Languages" align="center">
-  <h2>:hammer_and_wrench: Languages and Tools </h2><br>
+  <h2>:hammer_and_wrench: Languages and Tools </h2>
   <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="51" width="61" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="51" width="61" alt="css3 logo"  />
@@ -65,13 +65,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="51" width="61" alt="vscode logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" height="51" width="61" alt="firefox logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="51" width="61" alt="markdown logo"  />
-</div>
-
-  <!-- <img src="" width="50"> -->
+<!--   <img src="" width="50"> -->
+     </div>
 </div><br>
 
-<!--- 🌱 I’m currently learning 
--->
+---
+
+🌱 I’m currently learning 
+- Machine Learning with Python
 
 <!--
 **SamRB-dev/SamRB-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
