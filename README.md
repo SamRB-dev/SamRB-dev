@@ -112,10 +112,11 @@
 - ### Machine Learning with Python
   - #### Kaggle Projects
     - ##### Regression
-      - [Tesla Stock Price Prediction](https://www.kaggle.com/sadimrahmanbadhan/tesla-stock-price-prediction-linearregression/notebook)
-      - [Software Engineer Salary Prediction](https://www.kaggle.com/code/sadimrahmanbadhan/software-engineer-salary-prediction-linear)
+      - [Tesla Stock Price Prediction (linear)](https://www.kaggle.com/sadimrahmanbadhan/tesla-stock-price-prediction-linearregression/notebook)
+      - [Software Engineer Salary Prediction (linear)](https://www.kaggle.com/code/sadimrahmanbadhan/software-engineer-salary-prediction-linear)
     - ##### Classification
-      - [Iris Flower Classification](https://www.kaggle.com/code/sadimrahmanbadhan/iris-flower-classification-logistic-guided)
+      - [Iris Flower Classification (logistic)] (https://www.kaggle.com/code/sadimrahmanbadhan/iris-flower-classification-logistic-guided)
+      - [Diabetes-Classification-on-women (logistic)][https://www.kaggle.com/code/sadimrahmanbadhan/diabetes-detection]
 
 
 
