@@ -117,6 +117,7 @@
     - ##### Classification
       - [Iris Flower Classification (logistic)](https://www.kaggle.com/code/sadimrahmanbadhan/iris-flower-classification-logistic-guided)
       - [Diabetes-Classification-on-women (logistic)](https://www.kaggle.com/code/sadimrahmanbadhan/diabetes-detection)
+      - [Bank Customer Churn Prediction](https://www.kaggle.com/code/sadimrahmanbadhan/bank-customer-churn-prediction)
 
 
 
