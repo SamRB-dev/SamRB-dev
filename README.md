@@ -35,7 +35,7 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SamRB-dev&theme=2077&utcOffset=8">
 </div>
 <div align="center">
-     <img src="https://streak-stats.demolab.com/?user=SamRB-dev&theme=radical"/>
+     <img src="https://streak-stats.demolab.com/?user=SamRB-dev&theme=radical&hide_border=true"/>
 </div>
 
 <div id="Languages" align="center">
