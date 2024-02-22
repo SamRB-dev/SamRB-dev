@@ -119,7 +119,8 @@
       - [Diabetes-Classification-on-women (logistic)](https://www.kaggle.com/code/sadimrahmanbadhan/diabetes-detection)
       - [Bank Customer Churn Prediction](https://www.kaggle.com/code/sadimrahmanbadhan/bank-customer-churn-prediction)
 
-
+- ⚡ Fun fact:
+       - I Like fighting games and chess :D
 
 <!--
 **SamRB-dev/SamRB-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -132,6 +133,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
