@@ -120,7 +120,7 @@
       - [Bank Customer Churn Prediction](https://www.kaggle.com/code/sadimrahmanbadhan/bank-customer-churn-prediction)
 
 - ⚡ Fun fact:
-       - I Like fighting games and chess :D
+       - I Like fighting games, anime and chess :D
 
 <!--
 **SamRB-dev/SamRB-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
