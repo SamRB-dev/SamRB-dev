@@ -20,6 +20,7 @@
     <a href="https://www.linkedin.com/in/srb008" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"></a>
      <a href="https://youtube.com/@samisnoviceinprogramming" target="_blank"><img src="https://img.shields.io/badge/Youtube-FF3A20?style=for-the-badge&logo=youtube"></a>
      <a href="https://www.kaggle.com/sadimrahmanbadhan" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=fff&style=for-the-badge"></a>
+     <a href="https://www.upwork.com/freelancers/~0108126455447f4a2a?mp_source=share" target="_blank"><img src="https://img.shields.io/badge/Upwork-6FDA44?logo=upwork&logoColor=fff&style=for-the-badge"></a>
 </div><br>
 
 <!--Stats, Top-Language, Streak -->
