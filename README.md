@@ -37,7 +37,7 @@
 </div>
 <div align="center">
      <!--<img src="https://streak-stats.demolab.com/?user=SamRB-dev&theme=radical&hide_border=true"/>-->
-     <img src="https://streak-stats.demolab.com?user=SamRB-dev&theme=radical&border_radius=6&card_width=600&card_height=250" />
+     <img src="https://streak-stats.demolab.com?user=SamRB-dev&theme=radical&border_radius=6&card_width=600&card_height=250&hide_border=true" />
      
 </div>
 
