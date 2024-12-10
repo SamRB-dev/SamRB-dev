@@ -23,6 +23,10 @@
      <a href="https://www.upwork.com/freelancers/~0108126455447f4a2a?mp_source=share" target="_blank"><img src="https://img.shields.io/badge/Upwork-6FDA44?logo=upwork&logoColor=fff&style=for-the-badge"></a>
 </div><br>
 
+<div align="center">
+	<img src="https://github-readme-steam-card.vercel.app/status/?steamid=76561199243091310&show_in_game_bg=true&show_recent_game_bg=false">
+</div>
+
 <!--Stats, Top-Language, Streak -->
 <div align="center">
     <!-- Summary -->
