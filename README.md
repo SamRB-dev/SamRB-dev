@@ -151,6 +151,8 @@ Electronic Engineering student at Hochschule Hamm-Lippstadt, Germany. Started pr
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SamRB-dev&theme=2077&utcOffset=2" width="49%">
   <br><br>
   <img src="https://streak-stats.demolab.com?user=SamRB-dev&theme=radical&border_radius=6&card_width=600&card_height=250&hide_border=true">
+  <br><br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SamRB-dev&theme=react-dark&hide_border=true&area=true" width="100%" alt="GitHub Activity Graph">
 </div>
 
 <br>
