@@ -5,7 +5,7 @@
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&pause=1000&color=00FF88&background=00000000&center=true&width=650&lines=Electronic+Engineering+%40+HSHL%2C+Germany;Embedded+Systems+%7C+Circuits+%7C+Robotics;Cybersecurity+Enthusiast+%7C+PNPT+in+progress;Open+to+Werkstudent+%26+Praktikum" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&pause=1000&color=00FF88&background=00000000&center=true&width=650&lines=Electronic+Engineering+%40+HSHL%2C+Germany;Embedded+Systems+%7C+Circuits+%7C+Robotics;Cybersecurity+Enthusiast+%7C+eJPT+in+progress;Open+to+Werkstudent+%26+Praktikum" alt="Typing SVG" />
 </div>
 
 <br>
@@ -36,7 +36,7 @@
 
 <br>
 
-Electronic Engineering student at Hochschule Hamm-Lippstadt, Germany (6th semester). Started programming in 10th grade, got curious about how hardware and software interact, ended up going deep into embedded systems, FPGA design, and cybersecurity. I learn by building real things.
+Electronic Engineering student at Hochschule Hamm-Lippstadt, Germany. Started programming in 10th grade, got curious about how hardware and software interact, and gravitated toward embedded systems, IoT, robotics, and cybersecurity. I learn by building real things.
 
 🌐 **Portfolio:** [samrb-dev.github.io](https://samrb-dev.github.io)
 
@@ -53,10 +53,14 @@ Electronic Engineering student at Hochschule Hamm-Lippstadt, Germany (6th semest
 ![Embedded C](https://img.shields.io/badge/Embedded_C-0D3349?style=for-the-badge&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-2C3E50?style=for-the-badge&logoColor=white)
 ![VHDL](https://img.shields.io/badge/VHDL-4060FF?style=for-the-badge&logoColor=white)
 ![Vivado](https://img.shields.io/badge/Vivado-FF6600?style=for-the-badge&logoColor=white)
 ![UART](https://img.shields.io/badge/UART-1a3a1a?style=for-the-badge&logoColor=white)
 ![I2C](https://img.shields.io/badge/I2C-1a1a3a?style=for-the-badge&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
 
 <br>
 
@@ -77,6 +81,7 @@ Electronic Engineering student at Hochschule Hamm-Lippstadt, Germany (6th semest
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -88,6 +93,7 @@ Electronic Engineering student at Hochschule Hamm-Lippstadt, Germany (6th semest
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 <br>
 
@@ -96,7 +102,10 @@ Electronic Engineering student at Hochschule Hamm-Lippstadt, Germany (6th semest
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=black)
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-FF0000?style=for-the-badge&logoColor=white)
+![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
 ![Altium](https://img.shields.io/badge/Altium-A5915F?style=for-the-badge&logoColor=white)
+![QuestaSim](https://img.shields.io/badge/QuestaSim-0078D4?style=for-the-badge&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
 <br>
@@ -114,10 +123,10 @@ Electronic Engineering student at Hochschule Hamm-Lippstadt, Germany (6th semest
 
 | | Loop | Status |
 |:---:|:---|:---|
-| 🔐 | PNPT Certification | Binary exploitation · Reverse engineering · TryHackMe & HackTheBox |
-| 🔲 | VHDL & Autonomous Systems | Truck Platooning · CARLA Simulator · SVM · 6th semester |
+| 🦀 | Embedded Rust | Learning embedded Rust for microcontrollers |
 | 🤖 | ROS2 | Working through the fundamentals |
-| 🇩🇪 | German A1 | In progress |
+| 🔐 | eJPT Certification | Penetration testing fundamentals · TryHackMe & Hack The Box |
+| 🇩🇪 | German A2 | Working toward B1 |
 
 <br>
 
@@ -130,7 +139,7 @@ Electronic Engineering student at Hochschule Hamm-Lippstadt, Germany (6th semest
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SamRB-dev&theme=2077" width="49%">
   <br>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SamRB-dev&theme=2077" width="49%">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SamRB-dev&theme=2077&utcOffset=8" width="49%">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SamRB-dev&theme=2077&utcOffset=2" width="49%">
   <br><br>
   <img src="https://streak-stats.demolab.com?user=SamRB-dev&theme=radical&border_radius=6&card_width=600&card_height=250&hide_border=true">
 </div>
@@ -158,4 +167,3 @@ Electronic Engineering student at Hochschule Hamm-Lippstadt, Germany (6th semest
 </div>
 
 <br>
-
